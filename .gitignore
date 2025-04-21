@@ -13,7 +13,9 @@ go.work.sum
 .env
 
 # Temp & cache
+tmp/*
 tmp/
+
 .idea/
 .vscode/
 .DS_Store
